@@ -1,0 +1,20 @@
+{
+  "name": "wargaming",
+  "version": "1.0.0",
+  "description": "A wrapper for WarGaming's entire API.",
+  "keywords": [
+    "wargaming",
+    "worldoftanks",
+    "worldofwarplanes",
+    "worldofwarships",
+    "wot",
+    "wowp",
+    "wows"
+  ],
+  "main": "index.js",
+  "author": "Spedwards",
+  "license": "MIT",
+  "dependencies": {
+    "request-promise-native": "^1.0.5"
+  }
+}
